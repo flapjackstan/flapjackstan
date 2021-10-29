@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on creating maps using various libraries
+- 🔭 I’m currently working on creating maps using libraries like SF, TMap, Leaflet, PySal, GeoPandas, D3, and DCJS
 - 🌱 I’m currently learning web development
 - 💬 Ask me about GIS and Data Science for Social Good
 - 📫 How to reach me: camargop@chapman.edu
