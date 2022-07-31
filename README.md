@@ -8,4 +8,4 @@ When I'm not working my dayjob I switch between studying for my Masters degree, 
 Years from now I would like to teach/tutor middle school and highschool after school programs. Being part of Regional Occupational Program (ROP) in highschool really helped shape my future and would like to pay it back - :teacher:
 
 ## Get in touch
-- LinkedIn: https://www.linkedin.com/in/elmer-camargo/
+- LinkedIn: https://www.linkedin.com/in/elmer-camargo-datasci/
